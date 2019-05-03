@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="expenses">
+<item> Income</item>
+<item> Rent</item>
+<item> Utilities</item>
+<item> Phone Bill</item>
+<item> Car Expenses</item>
+<item> Health Insurance</item>
+<item> Other Expense</item>
+<item> Calculate</item>
+
+</string-array>
+</resources>
